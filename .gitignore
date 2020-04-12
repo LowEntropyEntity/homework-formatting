@@ -1,0 +1,8 @@
+*.aux
+*.fdb_latexmk
+*.fls
+# this is commented out for GitHub, but should probably be uncommented for most use cases
+# *.html
+*.log
+*.pdf
+*.synctex.gz
